@@ -48,6 +48,10 @@
     background-color: #0b5ed7;
 }
 
+.card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
 .services h2::after, .testimonials h2::after {
     content: "";
     display: block;
